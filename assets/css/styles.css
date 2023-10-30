@@ -329,6 +329,10 @@ img {
   justify-self: center;
 }
 
+.info-list {
+  font-weight: 700;
+}
+
 /*========== DECORATION ==========*/
 .decoration__container {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
