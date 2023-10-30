@@ -663,6 +663,10 @@ img {
     text-shadow: 1px 0px 10px #0000007d;
     /* font-family: 'Courier New', Courier, monospace; */
   }
+
+  .video {
+    margin: 0 1.4rem !important;
+  }
 }
 
 /*===== FORM =====*/
@@ -689,6 +693,7 @@ img {
   height: 48px;
   margin-bottom: 1.5rem;
 }
+
 .form__input {
   position: absolute;
   top: 0;
