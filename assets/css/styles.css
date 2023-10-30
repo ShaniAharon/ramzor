@@ -325,7 +325,8 @@ img {
 
 .share__description {
   margin-bottom: var(--mb-2);
-  text-shadow: 0 0 4px #2725259e;
+  font-weight: 600;
+  /* text-shadow: 0 0 4px #2725259e; */
 }
 
 .share__img {
@@ -647,7 +648,7 @@ img {
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
   .logo {
     width: 3.5rem;
   }
